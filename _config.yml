@@ -1,0 +1,17 @@
+# Site settings 
+title: MATIN Workshop Blog 
+header-img: img/home-bg.jpg 
+email: ethan.clark.hilton@gmail.com 
+description: "Practice Blog for MATIN Workshop" 
+baseurl: "/MATIN-Workshop" 
+url: "http://ehilton3.github.io" 
+github_username:  ehilton3 
+project_repository: MATIN-Workshop 
+disqus_shortname: project-pages 
+# Build settings 
+# Don't change these variables 
+markdown: kramdown 
+highlighter: pygments 
+permalink: pretty 
+paginate: 5 
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"] 
