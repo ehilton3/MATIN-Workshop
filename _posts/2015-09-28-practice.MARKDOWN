@@ -1,0 +1,14 @@
+---
+layout:     	post
+title:      	Practice Post
+date:       	2015-09-28 16:32
+author:     	Ethan Hilton
+tags:         result
+---
+
+Trying to post a post with the post posting poster.
+
+|__________/u\
+/\           /\      >
+
+dog?
